@@ -1,3 +1,10 @@
 Hi Mike, we should keep some back and forth chatter in here.
+<<<<<<< HEAD
 appending a line to test Michael's PAT
 hey max
+=======
+
+appending a line to test Michael's PAT
+
+Hey Max, yep sounds good.
+>>>>>>> trial
